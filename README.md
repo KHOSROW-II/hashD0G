@@ -14,6 +14,6 @@ pip install -r requirements.txt
 
 2. Then run the main Python file:
 ```python
-python hashdag.py
+python hashdog.py
 ```
 **Note: Make sure hashdag.py is located in the project directory.**
